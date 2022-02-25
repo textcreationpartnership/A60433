@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the honour of the King and the great advancing thereof amongst men over all nations in the world in the ensuing proposals tending thereunto : stated in six particulars concerning the King's honour, by his subjects unity one with another, submission to all his laws, faithfulness unto him, uprightness in traffick with other nations, departing from that which dishonoureth both God and the king, being the peculiar people of God, and they having his spirit to counsel him / by Humphrey Smyth.</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60433</idno>
+            <idno type="STC">Wing S4059</idno>
+            <idno type="STC">ESTC R10303</idno>
+            <idno type="EEBO-CITATION">13779733</idno>
+            <idno type="OCLC">ocm 13779733</idno>
+            <idno type="VID">101769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101769)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 850:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the honour of the King and the great advancing thereof amongst men over all nations in the world in the ensuing proposals tending thereunto : stated in six particulars concerning the King's honour, by his subjects unity one with another, submission to all his laws, faithfulness unto him, uprightness in traffick with other nations, departing from that which dishonoureth both God and the king, being the peculiar people of God, and they having his spirit to counsel him / by Humphrey Smyth.</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sovereignty --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101769:1"/>
+            <pb facs="tcp:101769:1" rendition="simple:additions"/>
+            <p>FOR THE HONOUR OF THE KING, AND The great Advancing thereof (amongſt men) over all <hi>Nations</hi> in the World: In the enſuing PROPOSALS tending thereunto: Stated in Six PARTICULARS.</p>
+            <p>Concerning the <hi>KING'S</hi> Honour:</p>
+            <list>
+               <item>1. By His <hi>Subjects Unity one with another.</hi>
+               </item>
+               <item>2. By His <hi>Subjects Submiſſion to all his Laws.</hi>
+               </item>
+               <item>3. By His <hi>Subjects Faithfulneſs unto Him.</hi>
+               </item>
+               <item>4. By His <hi>Subjects Uprightneſs in Traffick with other Nations.</hi>
+               </item>
+               <item>5. By His <hi>Subjects Departing from that which diſhonoureth both</hi> God <hi>and the</hi> King.</item>
+               <item>6. By His <hi>Subjects Being the peculiar People of</hi> God, <hi>and they having his Spirit to counſel him.</hi>
+               </item>
+            </list>
+            <p>By <hi>HUMPHREY SMYTH.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon,</hi> at the ſign of the <hi>Black-ſpread-Eagle</hi> and <hi>Windmill,</hi> in <hi>Martins Le Grand,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:101769:2"/>
+            <pb n="3" facs="tcp:101769:2" rendition="simple:additions"/>
+            <head>FOR THE HONOUR OF THE KING, And the great Advancing thereof (amongſt Men) over all Nations in the World.</head>
+            <div n="1" type="proposal">
+               <head>
+                  <hi>I.</hi> Concerning the Honour of the King, by the Unity of his Subjects one with another.</head>
+               <p>VVERE All (or the <hi>major part</hi>) of the King's Subjects ſo in Unity one with another, that every man ſought each others good as much as his own, and ſo fulfilled the law of God therein, by each man's <hi>loving his Neigh<g ref="char:EOLhyphen"/>bor as himſelf,</hi> and <hi>doing unto all</hi> (and at all times) <hi>as they would be done unto;</hi> having the Bond of Peace up<g ref="char:EOLhyphen"/>on their hearts, by the Power of his Spirit, who com<g ref="char:EOLhyphen"/>manded the Chriſtians, not only <hi>to love one another,</hi> but alſo <hi>their Enemies;</hi> whereby they are ſo far from De<g ref="char:EOLhyphen"/>fraud or coveting other mens Goods, or wronging any
+<pb n="4" facs="tcp:101769:3" rendition="simple:additions"/>man in Perſon or Eſtate, that <hi>Covetouſneſs</hi> is not named among them, neither could be by any juſtly charged upon them; but rather the things they poſſeſs are ac<g ref="char:EOLhyphen"/>knowledged to be the Lord's, and themſelves to be but Stewards thereof, and therefore durſt not be un<g ref="char:EOLhyphen"/>faithfull towards God or man, in the <hi>Unrighteous Mam<g ref="char:EOLhyphen"/>mon,</hi> leſt the Lord ſhould refuſe to commit unto them the greater Riches: And were they brought to have a certain knowledge one of another herein, that they durſt with boldneſs confide one in anothers Conſtan<g ref="char:EOLhyphen"/>cy in thoſe things, without the leaſt fear of being any way wronged, oppreſſed, or injured by each other; with what abundance of ſatisfaction would ſuch live upon the Earth? and how deſirable and amiable would this be for Chriſtians, and Brethren, to live thus in Unity?</p>
+               <p>And were they brought not to turn away their fa<g ref="char:EOLhyphen"/>ces from their own fleſh, nor to ſlight the Cry of the Poor; but with an Eye of Pitty ſtill to be commiſe<g ref="char:EOLhyphen"/>rating the Needy, and much caring how to have Op<g ref="char:EOLhyphen"/>preſſion removed, that ſo with the more chearfulneſs the Neceſſities of their poor Brethren might the eaſier be relieved, and ſuch continual Care to be taken herein, until all Oppreſſions were brought to an end, and all the Poor kept from want (there being ſuffi<g ref="char:EOLhyphen"/>cient within the King's Dominions to do it) that what is ſpent in Vanity might be forborn; and what is wa<g ref="char:EOLhyphen"/>ſted in Oppreſſion might be withheld, and other wayes found out (as ſomething hath been preſcribed by <hi>Tho<g ref="char:EOLhyphen"/>mas Lawrence</hi> of <hi>Marleborough</hi>) untill there were not one poor Member of all the Body of the King's Do<g ref="char:EOLhyphen"/>minions to be found, that had need to ask for Food or
+<pb n="5" facs="tcp:101769:3" rendition="simple:additions"/>Rayment, by reaſon of the Brotherly Care, Love and Unity in the foreſaid Subjects.</p>
+               <p>And all Jealouſies and Heart-burnings one againſt another, and fear one of another, as to be hurt in Per<g ref="char:EOLhyphen"/>ſon or Eſtate, or deſtroyed one of another, to be as clearly removed out of all minds, as if ſuch things had never been; all being contented with the things (and places) that they have, and no man ſeek another's Goods, or Houſe, or Lands, or Place, or Worldly Honour from him, nor any ſtrive to be greater than another therein; but if any ſtrive, then ſo to ſtrive, as to excel in Vertue, and in his ſervice of love to his Bre<g ref="char:EOLhyphen"/>thren, and People of his Nation, until Love, Unity, and laſting Peace and Concord ſpread over all, and all the contrary removed: which would be much for the Honour of the <hi>KING,</hi> not onely all the dayes of his Life, but would reach unto the Ages to come.</p>
+            </div>
+            <div n="2" type="proposal">
+               <head>
+                  <hi>II.</hi> Concerning the King's Honour, by his Subjects ſubmiſ<g ref="char:EOLhyphen"/>ſion (<hi>actively</hi> or <hi>paſſively</hi>) unto all his Laws.</head>
+               <p>VVEre the King's Subjects (or the <hi>major part</hi> thereof) brought to be as ready to obſerve and keep all his <hi>Laws, Edicts</hi> and <hi>Commands,</hi> which are according unto, and grounded upon good Reaſon, the Holy Scriptures, and according to God's Witneſs in their Conſciences, as he is to require it; and as free<g ref="char:EOLhyphen"/>ly willing to walk according to all ſuch his good and wholeſom <hi>Laws, Statutes</hi> and <hi>Ordinances,</hi> as he is to impoſe ſuch upon them. And moreover, that they could not be conſtrained to break them by any For<g ref="char:EOLhyphen"/>reign
+<pb n="6" facs="tcp:101769:4" rendition="simple:additions"/>Prince, or evil Member at home, but at all times, and in all Caſes, ſtanding ſo faithful, that the <hi>King</hi> be never diſhonoured by their tranſgreſſion of his Juſt and Righteous Laws, and that for Conſcience ſake, out of Love, and not for Fear. And moreover, did the King make ſuch Laws and Orders, or ſuffer ſuch to remain in force, which his Subjects aforeſaid did certainly know were contrary to good Reaſon, and not according to the Scriptures or Law of God, but quite contrary alſo to God's Witneſs in their own Con<g ref="char:EOLhyphen"/>ſciences; and that ſuch Laws alſo were well known to them to be deſtructive to the King's Subjects, and much hurtful to their Eſtates, and danger of ruinating their Families; or, if it ſhould reach to Death or Ba<g ref="char:EOLhyphen"/>niſhment, yet they not to rebel againſt the King, nor raiſe Arms to defend themſelves, though they are tru<g ref="char:EOLhyphen"/>ly ſatisfied that ſuch Laws are unreaſonable; yet for Conſcience ſake not to oppoſe, but <hi>ſubmit unto every Ordinance of man, whether unto the King, or ſuch as are ſet in Authority under him:</hi> and ſo, though they can<g ref="char:EOLhyphen"/>not <hi>actively</hi> obey thoſe Laws which are contrary to God's Righteous Law, written in their Hearts; yet <hi>paſsively</hi> to fulfill thoſe Laws alſo, by a <hi>paſſive</hi> ſuffer<g ref="char:EOLhyphen"/>ing the Penalties which thoſe Laws require of ſuch as <hi>actively</hi> keep them not; and ſo <hi>therein</hi> again are thoſe Laws fulfilled alſo by them: that ſo it might be ſaid of him, That his Subjects are alwayes ready to fulfil, or ſubmit unto all his Laws and Orders, either by <hi>active</hi> or <hi>paſsive</hi> obedience, whether they be <hi>reaſonable</hi> or <hi>unreaſonable.</hi> And a People being brought thus to ſubmit to the <hi>King in all things,</hi> would be very much for his Honour in Truth and Righteouſneſs.</p>
+            </div>
+            <div n="3" type="proposal">
+               <pb n="7" facs="tcp:101769:4" rendition="simple:additions"/>
+               <head>
+                  <hi>III.</hi> Concerning the King's Honour, by the Faithfulneſſe of his Subjects unto him.</head>
+               <p>VVEre all the King's Subjects brought unto ſuch Faithfulneſs unto him, that he him<g ref="char:EOLhyphen"/>ſelf could with good Confidence truſt them, or him<g ref="char:EOLhyphen"/>ſelf with them; and, without any doubting, believe and know that they would not harm him in the leaſt, nor in the leaſt contrive the ſhortning of his dayes; but all deſiring his long life, to <hi>govern in Righteouſneſs:</hi> and were they all of ſuch a Principle, and unalterable therein, as not to deſtroy any man's Life, though their Enemies, much leſs a Friend, a Neighbour, or a Chri<g ref="char:EOLhyphen"/>ſtian; that the King might be well perſwaded of them, that they would never harm him, nor plot, nor con<g ref="char:EOLhyphen"/>ſpire againſt him, nor ever offer or intend Violence to<g ref="char:EOLhyphen"/>wards him, though he had none to guard him; ſo that if he pleaſe, he might even with boldneſs and confi<g ref="char:EOLhyphen"/>dence at any time truſt himſelf with them, or amongſt them, without the leaſt danger or fear in himſelf; know<g ref="char:EOLhyphen"/>ing all his Subjects to be as careful of his Life, as his Life-Guard; ſo that if he pleaſe he might not need alwayes to keep one Company of his Subjects to guard him; for fear of any other of his Subjects; but rather for fear of ſuch as are not his Subjects. And were <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Subjects brought in ſuch Faithfulneſs, and the King weſt and truly ſatisfied therein, would it not eaſe him and his Council of much Care and ſometimes Fear too? and to be ſo well ſatisfied in himſelf concerning his Subjects Faithfulneſs to him herein, that he could
+<pb n="8" facs="tcp:101769:5" rendition="simple:additions"/>take their Word for it, without <hi>Oath, Bond,</hi> or <hi>Surety;</hi> Or, if he had no Word or Promiſe at all from them, yet could believe and truſt them, that they would ne<g ref="char:EOLhyphen"/>ver <hi>plot</hi> or <hi>riſe</hi> againſt him, nor do him harm, but re<g ref="char:EOLhyphen"/>main as firm, ſteadfaſt, and true to him, as any other Prince's Subjects in the whole World, by any of their <hi>Oaths, Bonds,</hi> or other <hi>Engagements</hi> whatſoever, if not more conſtant and ſteadfaſt: which, were all the King's Subjects brought unto, would be ſuch an Honour un<g ref="char:EOLhyphen"/>to the King therein, as would hardly be found belong<g ref="char:EOLhyphen"/>ing unto any Prince in the whole World again.</p>
+            </div>
+            <div n="4" type="proposal">
+               <head>
+                  <hi>IV.</hi> Concerning the Honour that the King might have by the Uprightneſſe of his Subjects in their Traffick with other Nations.</head>
+               <p>VVEre all the King's Subjects (or moſt part of them) brought into Truth, Plainneſs, and Righteouſneſs, ſo that their <hi>Yea</hi> was <hi>Yea,</hi> and their <hi>Nay, Nay;</hi> that ſo all Merchants and Factors could take their Words, and truſt to their Words to be of more value than the Oaths of moſt Princes Sub<g ref="char:EOLhyphen"/>jects in the World; and that in what Nation or King<g ref="char:EOLhyphen"/>dom ſoever they come in the World, as ſoon as it was heard they were ſuch a Prince's Subjects, that then both the King of thoſe Dominions, with Princes, Judges, Merchants, Factors and People, might all conclude they were true men of their Words; and that any man might deal with them, and none be afraid to traffick with them, becauſe they abhor Deceit, Defraud and Lying, and all manner of Cozening or Diſhoneſty:
+<pb n="9" facs="tcp:101769:5" rendition="simple:additions"/>and would not this alſo promote Trading, and ſo en<g ref="char:EOLhyphen"/>rich the Kingdom, and be ſome means to relieve the Poor? And is not the enriching of the Kingdom for the King's Honour? And what Man or Nation is it, but would deſire to deal with Juſt Men? And would not the Fame of ſuch a Prince, and ſuch his Subjects as deal juſtly and truly where-ever they come, ſoon ſound over all the World? And would it not be for his Honour, that had ſuch a People as did neither ſeek nor ask but a Juſt Prince where-ever they come amongſt all Nations in the World? And if ſuch Honour before<g ref="char:EOLhyphen"/>mentioned be eſteemed, what part of it is beyond this, which might cauſe a King's Name to be renown<g ref="char:EOLhyphen"/>ed over the whole World, having ſuch upright, true, juſt, honeſt-hearted men in all things, to his Subjects, as not any other Emperour or Prince could produce the like?</p>
+            </div>
+            <div n="5" type="proposal">
+               <head>
+                  <hi>V.</hi> Concerning the King's Honour, by his Subjects departing from that which diſhonoureth (both God and) the King, and themſelves.</head>
+               <p>VVEre all the King's Subjects brought to leave and utterly <hi>to forſake the Devil and all his Works, the Pomp and Vanities of this wicked World, and all the ſinfull Luſts of the fleſh, and the carnal deſires of the ſame;</hi> and ſo to leave and utterly forſake all man<g ref="char:EOLhyphen"/>ner of Evil in word and deed, and <hi>to bear no Malice or Hatred in their Hearts; to keep their Tongues from Lying and Evil-ſpeaking,</hi> ſeeing it is the <hi>evil words</hi> that corrupts the <hi>good manners;</hi> and ſo not to ſpeak proud<g ref="char:EOLhyphen"/>ly,
+<pb n="10" facs="tcp:101769:6" rendition="simple:additions"/>nor contemptuouſly, no not of the meaneſt Mem<g ref="char:EOLhyphen"/>ber in the Nation; but to abhor and leave <hi>Arrogan<g ref="char:EOLhyphen"/>cy,</hi> with all manner of <hi>Voluptuouſneſs,</hi> knowing, <hi>that God reſiſteth the Proud;</hi> and ſo not one ſuch prophane perſon as Lord <hi>Eſau</hi> to be found amongſt them; nor one Swearer, nor Lyar, nor Thief, nor Murderer a<g ref="char:EOLhyphen"/>mongſt them; neither yet a Drunkard, nor a Glutton, nor a Whoremonger, nor a Covetous Perſon <hi>(which is Idolatry)</hi> to be found amongſt them; nor any that ſpend their dayes in Vanity, nor that abuſe or waſte the good Creatures of God in any of the King's Domi<g ref="char:EOLhyphen"/>nions, whereby any of his Subjects may come to want, to his diſhnour. And were they all brought to <hi>forſake the very Appearance of Evil,</hi> and ſo never to tranſgreſs any of his <hi>good Laws,</hi> to his diſhonour: herein alſo would this be for the Honour of the King.</p>
+               <p>And thus might his Fame ring over all the World, and be of great Renown among all the Upright-heart<g ref="char:EOLhyphen"/>ed in all Nations: for what is a King without his Subjects? and when is a King more honoured by his Subjects, than when his Subjects themſelves are moſt honourable, and act moſt noble and honourably? And what is more honourable and more noble in the out<g ref="char:EOLhyphen"/>ward practice among the ſons of men, whereby a King might be honoured, than the things aforeſaid? Nay, doth not the Principles, Qualities and Practices afore<g ref="char:EOLhyphen"/>ſaid, make men more noble and honou<g ref="char:EOLhyphen"/>rable than the Titles of <note n="†" place="margin"> For <hi>Eſau</hi> was called Lord, &amp; <hi>Edom</hi> had ma<g ref="char:EOLhyphen"/>ny Dukes, and <hi>Iſhmael</hi> had twelve Princes.</note>
+                  <hi>Lord Eſau,</hi> or <hi>Dukes</hi> of <hi>Edom,</hi> or <hi>Princes</hi> of <hi>Iſhmael,</hi> ſeeing <hi>Abraham</hi> was a Wanderer, and <hi>Jacob</hi> a Pilgrim, and <hi>Iſrael</hi> dwelled in Tents; who obtained a good Report
+<pb n="11" facs="tcp:101769:6" rendition="simple:additions"/>through Faith, and whom God hath renowned with an everlaſting Honour.</p>
+            </div>
+            <div n="6" type="proposal">
+               <head>
+                  <hi>VI.</hi> Concerning the Honour of the King, and alſo his great Be<g ref="char:EOLhyphen"/>nefit, by his Subjects being the Peculiar Choſen People of God, and their having the Spirit of the Lord to counſel Him.</head>
+               <p>WEre many of the King's Subjects the true Ser<g ref="char:EOLhyphen"/>vants and Children of the Inviſible God of Hea<g ref="char:EOLhyphen"/>ven and Earth, by true Mortification, Sanctification, and Regeneration, and truly led, moved, and guided by the Spirit of God; and many of them ſo grown in<g ref="char:EOLhyphen"/>to the Power and Wiſdom of God really, and abſo<g ref="char:EOLhyphen"/>lately ſo having the Spirit of the Lord poured forth upon them in theſe latter dayes, according to the Pro<g ref="char:EOLhyphen"/>miſe of God, which muſt be and is already fulfilled, ſo that at a needfull time <hi>One</hi> of them having (as it was ſaid of <hi>Daniel,</hi> chap. 5. v. 11.) the <hi>Spirit, Light, Underſtanding</hi> and <hi>Wiſdom</hi> being found in him, could ſhew unto the King ſuch a thing or things, or ſecret Determination of God, which all others (the King's Wiſe-men) whomſoever could not; and to diſcover the lurking of the King's Enemies unto him, and their ſecret purpoſes againſt him, though they were far re<g ref="char:EOLhyphen"/>mote; as <hi>Eliſha</hi> diſcovered unto the King of <hi>Iſrael,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which the King of <hi>Syria</hi> in his Bed-chamber con<g ref="char:EOLhyphen"/>trived againſt him, whereby the King of <hi>Iſrael</hi> eſcaped his Plots, not once or twice, 2 <hi>King.</hi> 6.10. And that they could and did at any time, and often times (as moved of the Lord) declare and ſhew unto the King,
+<pb n="12" facs="tcp:101769:7" rendition="simple:additions"/>the Counſel of God concerning himſelf and his King<g ref="char:EOLhyphen"/>dom, and what would come to paſs concerning both: and how he might avoid the <hi>Evil,</hi> and chooſe the <hi>Good,</hi> like as <hi>Samuel</hi> and other Prophets, who had the Spi<g ref="char:EOLhyphen"/>rit, were wont to do unto the Kings of <hi>Iſrael</hi> in the dayes of old, that ſo his Throne might be eſtabliſhed in Righteouſneſs; which would be more than an ordi<g ref="char:EOLhyphen"/>nary Honour for the King; and God might bleſſe and proſper him for their ſakes, as He did <hi>Pharaoh</hi> for the ſake of that one faithful man, <hi>Joſeph,</hi> after the King had releaſed him out of Bonds.</p>
+               <p>But by this time many might ſay unto me, as a Lord ſaid unto the Prophet, when he ſpake of things much unlike to come to paſſe, <hi>How can theſe things be, though God ſhould make Windows in Heaven?</hi>
+               </p>
+               <p>To which I anſwer, That though I do not affirm, that all thoſe things ſhall come to paſſe concerning him; yet I ſay, that many are already, and many more may come to the ſtate aforeſaid; And it would be his Happineſs, and more for his Honour than men can yet receive, to be Chief Magiſtrate among or over ſuch a People, and to have moſt of his Subjects ſo qualified, and great would be his Peace thereby.</p>
+               <p>And thus further I ſay, That the God of Heaven and Earth hath promiſed that a People <hi>ſhall be all Righ<g ref="char:EOLhyphen"/>teous,</hi> and that <hi>Iniquity ſhall ceaſe,</hi> and the Nations <hi>ſhall learn War no more,</hi> but <hi>every one ſhall reſt under his own Vine,</hi> and <hi>none ſhall make them afraid:</hi> And they ſhall be in league with the ſtones of the field; and the Beaſts of the field ſhall be at peace with them. And the Lord God hath brought many into the entrance of theſe things, that with Chriſt in the Prophet, they <hi>can
+<pb n="13" facs="tcp:101769:7" rendition="simple:additions"/>give their Backs to the ſmiter, and their Cheeks to him <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> plucketh off the hair.</hi> And if it were well if that all the King's Subjects were come to the things afore<g ref="char:EOLhyphen"/>ſaid, and to live in that upright ſtate; Then it is not <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that ſome are come unto that ſtate already. And if the Little that is begun towards this Work were che<g ref="char:EOLhyphen"/>riſhed, might it not grow and increaſe towards that ſtate hinted at in the former brief Particulars, touch<g ref="char:EOLhyphen"/>ing the <hi>Honour of the King?</hi> though there is an Honour which exceeds all this.</p>
+               <p>And certainly the Word of the Lord will ſtand for ever, though men and their Powers, and Heaven and Earth may paſſe away: And aſſuredly the God of Righteouſneſs hath begun his Work in this Nation, and in the Hearts of many of his Little Ones; and a <hi>Little One</hi> (he hath ſaid) <hi>ſhall become a Thouſand, and a Small One, a ſtrong Nation;</hi> and <hi>the Kingdoms of this World ſhall become the Kingdom of our God and of his Chriſt.</hi> And what if a Nation be born at once, and <hi>She</hi> bring forth before her travel, and the Lord an<g ref="char:EOLhyphen"/>ſwer before his People call, and hear while they are yet ſpeaking, and multiply the Seed of <hi>Abraham</hi> as the Stars of Heaven, and increaſe the Innocent Flock of his Fold as the innumerable Plants upon the face of the Earth, that Sin and Iniquity may have an end, and Righteouſneſs reign for evermore?</p>
+               <p>And if it be further enquired, <hi>How the King might have his Subjects truly principled and qualified as afore<g ref="char:EOLhyphen"/>ſaid;</hi> or, <hi>have ſuch Subjects generally thus for his great Honour?</hi>
+               </p>
+               <p>I anſwer further (to the Everlaſting Praiſe of God) That there are many (which may well be called ſome
+<pb n="14" facs="tcp:101769:8" rendition="simple:additions"/>of his trueſt Subjects in his Dominions) that are alrea<g ref="char:EOLhyphen"/>dy truly principled, and qualified as aforeſaid; and more are entering and growing up into the ſame <hi>Faith<g ref="char:EOLhyphen"/>fulneſs, Love, Unity</hi> and <hi>Peace</hi> with all men, and God will encreaſe them; and it might be much for the Ho<g ref="char:EOLhyphen"/>nour of (God and) the King to encourage them there<g ref="char:EOLhyphen"/>in; and much for the diſhonour of God, and diſhonour and great diſadvantage of the King divers wayes, if he ſeek, or ſhould be perſwaded to ſeek the hinderance of theſe things, or of his Subjects, who are thus already qualified, or the Increaſe of their number therein, or their Increaſing in the Honeſt, Noble, Honourable, Upright things aforeſaid: which things might make for the Honour of the <hi>King;</hi> and will certainly be for the Glory of <hi>God.</hi>
+               </p>
+               <p>And this is written by one that deſireth the Peace of all the Nations, and Unity amongſt all men; and that many more may come into the Righteous Things aforeſaid; which would be for the Glory of God, the Honour of the Chief Magiſtrate, the great Benefit of the Nations, and much Comfort to themſelves. And that deſireth the In<g ref="char:EOLhyphen"/>creaſe of <hi>Love, Truth</hi> and <hi>Vertue,</hi> which brings into the true Honourable Nobility; for the which this is written, That men may come into the true Noble and Honourable Eſtate in the ſight of God and all Juſt men, among whom I am a true Friend to them all in Love,</p>
+               <closer>
+                  <signed>Called <hi>Humphrey Smyth.</hi>
+                  </signed>
+                  <date>
+                     <hi>The Tenth of the Fourth Month.</hi> 1661.</date>
+               </closer>
+               <pb facs="tcp:101769:8"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
